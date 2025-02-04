@@ -1,0 +1,4 @@
+/.coverage
+/.env
+/.pytest_cache
+/dist
