@@ -1,5 +1,11 @@
 # Reasoning Framework
 
+[![PyPI version](https://badge.fury.io/py/reasoning.svg)](https://badge.fury.io/py/reasoning)
+[![Python](https://img.shields.io/pypi/pyversions/reasoning.svg)](https://pypi.org/project/reasoning/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Coverage Status](https://coveralls.io/repos/github/colesmcintosh/reasoning/badge.svg?branch=main)](https://coveralls.io/github/colesmcintosh/reasoning?branch=main)
+[![Documentation Status](https://readthedocs.org/projects/reasoning/badge/?version=latest)](https://reasoning.readthedocs.io/en/latest/?badge=latest)
+
 A Python package that adds R1-style reasoning capabilities to any Language Model (LLM). This framework enables step-by-step reasoning and verification of responses using a two-step process:
 
 1. Initial reasoning and response generation
